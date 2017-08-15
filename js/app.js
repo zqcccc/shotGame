@@ -28,7 +28,8 @@ var GAME = {
    * playing 游戏中
    * failed 游戏失败
    * success 游戏成功
-   * stop 游戏暂停
+   * all-success 游戏通过
+   * stop 游戏暂停（可选）
    */
   setStatus: function(status) {
     this.status = status;
