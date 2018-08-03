@@ -91,4 +91,16 @@ a:hover{
   background-size: 250px;
 }
 
+[data-status="stop"] .game-stop {
+  display: block;
+  position: relative;
+  background: rgba(0,0,0,.6);
+}
 
+.js-continue{
+  position: absolute;
+  margin-top: -20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
