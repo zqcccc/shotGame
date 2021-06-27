@@ -1,0 +1,20 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "在第五章中，我们学会了如何在 JavaScript 中运用面向对象来开发，\b也学习了如何使用 Canvas 来绘制\b\b各种图案\b和制作游戏动画。接下来，需要大家\b至今所学的`面向对象开发` 和 `Canvas` 相互结合起来，来完成接下来的 `Canvas 射击小游戏`。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqcccc/shotGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zqcccc/shotGame/issues"
+  },
+  "homepage": "https://github.com/zqcccc/shotGame#readme"
+}
